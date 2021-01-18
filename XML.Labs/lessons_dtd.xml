@@ -1,0 +1,22 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<!DOCTYPE timeTable SYSTEM "lessons_DTD.dtd">
+<timeTable>
+	<item>
+		<course>курс№1</course>
+		<teacher>преподаватель№1</teacher>
+		<begin>2020-09-28</begin>
+		<resourse>ИТМО</resourse>
+	</item>
+	<item>
+		<course>курс№2</course>
+		<teacher>преподаватель№2</teacher>
+		<begin>2020-11-30</begin>
+		<resourse>ИТМО</resourse>
+	</item>
+	<item>
+		<course>курс№3</course>
+		<teacher>преподаватель№1</teacher>
+		<begin>2020-12-15</begin>
+		<resourse>ИТМО</resourse>
+	</item>
+</timeTable>

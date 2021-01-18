@@ -1,0 +1,21 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<timeTable xmlns:cr="http://ITMO" xmlns:rsr="http://literature_resourses">
+	<item id="a">
+		<cr:course>курс№1</cr:course>
+		<teacher>преподаватель№1</teacher>
+		<begin>2020-09-28</begin>
+		<rsr:resourse>ИТМО</rsr:resourse>
+	</item>
+	<item id="b">
+		<cr:course>курс№2</cr:course>
+		<teacher>преподаватель№2</teacher>
+		<begin>2020-11-30</begin>
+		<rsr:resourse>ИТМО</rsr:resourse>
+	</item>
+	<item id="c">
+		<cr:course>курс№3</cr:course>
+		<teacher>преподаватель№1</teacher>
+		<begin>2020-12-15</begin>
+		<rsr:resourse>ИТМО</rsr:resourse>
+	</item>
+</timeTable>

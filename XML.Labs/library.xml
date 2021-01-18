@@ -1,0 +1,28 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<!DOCTYPE note SYSTEM "books_dtd.dtd">
+<book_catalog>
+	<book id="1" year="1999" issue = "translation">
+		<authors>Author1</authors>
+		<title>A</title>
+		<publishing>1999</publishing>
+		<annotation>Annotation1</annotation>
+	</book>
+	<book id="2" isbn="" year="2000" issue = "original">
+		<authors>Author2</authors>
+		<title>B</title>
+		<publishing>Annotation2</publishing>
+		<annotation>2000</annotation>
+	</book>
+	<book id="3" year="1998">
+		<authors>Author3</authors>
+		<title>C</title>
+		<publishing>1998</publishing>
+		<annotation>Annotation3</annotation>
+	</book>
+</book_catalog>
+<author_catalog> 
+	<author_book idref="1">Author1</author_book>
+	<author_book idref="2">Author2</author_book>
+</author_catalog>
+<element>&linux;</element>
+<element>&internet;</element>

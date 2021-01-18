@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE note[
+		<!ELEMENT timeTable (item+)>
+		<!ELEMENT item (course, teacher, begin, resourse)> 
+		<!ELEMENT course (#PCDATA)> 
+		<!ELEMENT teacher (#PCDATA)> 
+		<!ELEMENT begin (#PCDATA)>  
+		<!ELEMENT resourse (#PCDATA)>
+]>

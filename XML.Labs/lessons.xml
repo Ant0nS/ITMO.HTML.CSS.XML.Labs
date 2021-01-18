@@ -1,0 +1,21 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<timeTable>
+	<item id="a">
+		<course>курс№1</course>
+		<teacher>преподаватель№1</teacher>
+		<begin>2020-09-28</begin>
+		<resourse>ИТМО</resourse>
+	</item>
+	<item id="b">
+		<course>курс№2</course>
+		<teacher>преподаватель№2</teacher>
+		<begin>2020-11-30</begin>
+		<resourse>ИТМО</resourse>
+	</item>
+	<item id="c">
+		<course>курс№3</course>
+		<teacher>преподаватель№1</teacher>
+		<begin>2020-12-15</begin>
+		<resourse>ИТМО</resourse>
+	</item>
+</timeTable>
